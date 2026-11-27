@@ -28,4 +28,4 @@ int32_t main()
     shiro_oni();
     return 0;
 }
-https://cses.fi/problemset/task/1145/
+//https://cses.fi/problemset/task/1145/
